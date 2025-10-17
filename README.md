@@ -133,7 +133,7 @@ job_id = res.json()["job_id"]
 while True:
     time.sleep(2)
     res = requests.get(f"{HOST}/job/{job_id}?form=json", headers=headers)
-    info = r.json()
+    info = res.json()
     status = info["status"]
     print("status:", status)
     if status == "finished":
