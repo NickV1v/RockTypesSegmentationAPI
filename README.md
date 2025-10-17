@@ -15,23 +15,23 @@ Send an image, get a `job_id`, poll the job until it finishes, then download the
 ## 📸 Demonstration
 
 <div style="display:flex; flex-wrap:wrap; gap:16px;">
-  <a href="demo_pairs/pair1.jpg"><img src="demo_pairs/pair1.jpg" alt="pair1" style="max-height:800px;"></a>
-  <a href="demo_pairs/pair2.jpg"><img src="demo_pairs/pair2.jpg" alt="pair2" style="max-height:800px;"></a>
-  <a href="demo_pairs/pair3.jpg"><img src="demo_pairs/pair3.jpg" alt="pair3" style="max-height:800px;"></a>
+  <a href="demo_pairs/pair1.jpg"><img src="demo_pairs/pair1.jpg" alt="pair1" style="max-height:600px;"></a>
+  <a href="demo_pairs/pair2.jpg"><img src="demo_pairs/pair2.jpg" alt="pair2" style="max-height:600px;"></a>
+  <a href="demo_pairs/pair3.jpg"><img src="demo_pairs/pair3.jpg" alt="pair3" style="max-height:600px;"></a>
 </div>
 
 ## ⛏️Supported rock types
-* sandstone
-* siltstone
-* mudstone
-* dolomite
-* limestone
-* anhydrite
-* interlayered sandstones and mudstones
-* interlayered siltstones and mudstones
-* conglomerate
-* crust
-* marl rock
+* Sandstone
+* Siltstone
+* Mudstone
+* Dolomite
+* Limestone
+* Anhydrite
+* Interlayered sandstones and mudstones
+* Interlayered siltstones and mudstones
+* Conglomerate
+* Crust
+* Marl rock
 
 ## 🔗 Endpoints
 
