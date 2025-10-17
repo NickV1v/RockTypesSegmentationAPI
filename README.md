@@ -14,29 +14,27 @@ Send an image, get a `job_id`, poll the job until it finishes, then download the
 
 ## 📸 Demonstration
 
-<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px; justify-items:center;">
+<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:5px; justify-items:center;">
   <a href="demo_pairs/pair1.jpg" style="display:block">
-    <div style="width:380px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+    <div style="width:350px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
       <img src="demo_pairs/pair1.jpg" alt="pair1" style="max-width:100%; max-height:100%; object-fit:contain; display:block;" loading="lazy">
     </div>
   </a>
   <a href="demo_pairs/pair2.jpg" style="display:block">
-    <div style="width:380px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+    <div style="width:350px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
       <img src="demo_pairs/pair2.jpg" alt="pair2" style="max-width:100%; max-height:100%; object-fit:contain; display:block;" loading="lazy">
     </div>
   </a>
   <a href="demo_pairs/pair3.jpg" style="display:block">
-      <div style="width:380px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+      <div style="width:350px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
         <img src="demo_pairs/pair3.jpg" alt="pair3" style="max-width:100%; max-height:100%; object-fit:contain; display:block;" loading="lazy">
       </div>
   </a>
   <a href="demo_pairs/pair4.jpg" style="display:block">
-      <div style="width:380px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+      <div style="width:350px; height:800px; background:#1e1e1e; display:flex; align-items:center; justify-content:center; overflow:hidden;">
         <img src="demo_pairs/pair4.jpg" alt="pair4" style="max-width:100%; max-height:100%; object-fit:contain; display:block;" loading="lazy">
       </div>
   </a>
-
-  <!-- repeat for pair2..pair4 -->
 </div>
 
 ## ⛏️Supported rock types
